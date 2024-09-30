@@ -3,15 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\Home\\OneDrive\\Escritorio\\Sesion 13\\Sesion13\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09A9E3F5-9941-4489-8C41-CB9FFCDDEEF4}|MetodoBurbuja\\MetodoBurbuja.csproj|c:\\users\\home\\onedrive\\escritorio\\sesion 13\\sesion13\\metodoburbuja\\models\\bubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09A9E3F5-9941-4489-8C41-CB9FFCDDEEF4}|MetodoBurbuja\\MetodoBurbuja.csproj|solutionrelative:metodoburbuja\\models\\bubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DB1C2BD-423A-4810-BAB9-918352620380}|Registro\\Registro.csproj|c:\\users\\home\\onedrive\\escritorio\\sesion 13\\sesion13\\registro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB1C2BD-423A-4810-BAB9-918352620380}|Registro\\Registro.csproj|solutionrelative:registro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB1C2BD-423A-4810-BAB9-918352620380}|Registro\\Registro.csproj|c:\\users\\home\\onedrive\\escritorio\\sesion 13\\sesion13\\registro\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB1C2BD-423A-4810-BAB9-918352620380}|Registro\\Registro.csproj|solutionrelative:registro\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB1C2BD-423A-4810-BAB9-918352620380}|Registro\\Registro.csproj|c:\\users\\home\\onedrive\\escritorio\\sesion 13\\sesion13\\registro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DB1C2BD-423A-4810-BAB9-918352620380}|Registro\\Registro.csproj|solutionrelative:registro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09A9E3F5-9941-4489-8C41-CB9FFCDDEEF4}|MetodoBurbuja\\MetodoBurbuja.csproj|c:\\users\\home\\onedrive\\escritorio\\sesion 13\\sesion13\\metodoburbuja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09A9E3F5-9941-4489-8C41-CB9FFCDDEEF4}|MetodoBurbuja\\MetodoBurbuja.csproj|solutionrelative:metodoburbuja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09A9E3F5-9941-4489-8C41-CB9FFCDDEEF4}|MetodoBurbuja\\MetodoBurbuja.csproj|c:\\users\\home\\onedrive\\escritorio\\sesion 13\\sesion13\\metodoburbuja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{09A9E3F5-9941-4489-8C41-CB9FFCDDEEF4}|MetodoBurbuja\\MetodoBurbuja.csproj|C:\\Users\\Home\\OneDrive\\Escritorio\\Sesion 13\\Sesion13\\metodoburbuja\\models\\bubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A9E3F5-9941-4489-8C41-CB9FFCDDEEF4}|MetodoBurbuja\\MetodoBurbuja.csproj|solutionrelative:metodoburbuja\\models\\bubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A9E3F5-9941-4489-8C41-CB9FFCDDEEF4}|MetodoBurbuja\\MetodoBurbuja.csproj|C:\\Users\\Home\\OneDrive\\Escritorio\\Sesion 13\\Sesion13\\metodoburbuja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{09A9E3F5-9941-4489-8C41-CB9FFCDDEEF4}|MetodoBurbuja\\MetodoBurbuja.csproj|solutionrelative:metodoburbuja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,38 +45,76 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\Sesion 13\\Sesion13\\Registro\\Form1.cs",
+              "RelativeDocumentMoniker": "Registro\\Form1.cs",
+              "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Sesion 13\\Sesion13\\Registro\\Form1.cs",
+              "RelativeToolTip": "Registro\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwCAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:34:41.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\Sesion 13\\Sesion13\\Registro\\models\\Product.cs",
+              "RelativeDocumentMoniker": "Registro\\models\\Product.cs",
+              "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Sesion 13\\Sesion13\\Registro\\models\\Product.cs",
+              "RelativeToolTip": "Registro\\models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:31:29.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\Sesion 13\\Sesion13\\Registro\\Form1.cs",
+              "RelativeDocumentMoniker": "Registro\\Form1.cs",
+              "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Sesion 13\\Sesion13\\Registro\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Registro\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:25:12.972Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\Sesion 13\\Sesion13\\MetodoBurbuja\\Form1.cs",
               "RelativeDocumentMoniker": "MetodoBurbuja\\Form1.cs",
               "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Sesion 13\\Sesion13\\MetodoBurbuja\\Form1.cs",
               "RelativeToolTip": "MetodoBurbuja\\Form1.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwDoAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T15:38:36.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "bubble.cs",
               "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\Sesion 13\\Sesion13\\MetodoBurbuja\\models\\bubble.cs",
               "RelativeDocumentMoniker": "MetodoBurbuja\\models\\bubble.cs",
-              "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Sesion 13\\Sesion13\\MetodoBurbuja\\models\\bubble.cs*",
-              "RelativeToolTip": "MetodoBurbuja\\models\\bubble.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Sesion 13\\Sesion13\\MetodoBurbuja\\models\\bubble.cs",
+              "RelativeToolTip": "MetodoBurbuja\\models\\bubble.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T15:25:22.164Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\Sesion 13\\Sesion13\\MetodoBurbuja\\Form1.cs",
               "RelativeDocumentMoniker": "MetodoBurbuja\\Form1.cs",
