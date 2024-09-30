@@ -1,0 +1,10 @@
+C:\Users\Home\OneDrive\Escritorio\Sesion 13\Sesion13\MetodoBurbuja\bin\Debug\MetodoBurbuja.exe.config
+C:\Users\Home\OneDrive\Escritorio\Sesion 13\Sesion13\MetodoBurbuja\bin\Debug\MetodoBurbuja.exe
+C:\Users\Home\OneDrive\Escritorio\Sesion 13\Sesion13\MetodoBurbuja\bin\Debug\MetodoBurbuja.pdb
+C:\Users\Home\OneDrive\Escritorio\Sesion 13\Sesion13\MetodoBurbuja\obj\Debug\MetodoBurbuja.csproj.AssemblyReference.cache
+C:\Users\Home\OneDrive\Escritorio\Sesion 13\Sesion13\MetodoBurbuja\obj\Debug\MetodoBurbuja.Form1.resources
+C:\Users\Home\OneDrive\Escritorio\Sesion 13\Sesion13\MetodoBurbuja\obj\Debug\MetodoBurbuja.Properties.Resources.resources
+C:\Users\Home\OneDrive\Escritorio\Sesion 13\Sesion13\MetodoBurbuja\obj\Debug\MetodoBurbuja.csproj.GenerateResource.cache
+C:\Users\Home\OneDrive\Escritorio\Sesion 13\Sesion13\MetodoBurbuja\obj\Debug\MetodoBurbuja.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Escritorio\Sesion 13\Sesion13\MetodoBurbuja\obj\Debug\MetodoBurbuja.exe
+C:\Users\Home\OneDrive\Escritorio\Sesion 13\Sesion13\MetodoBurbuja\obj\Debug\MetodoBurbuja.pdb
